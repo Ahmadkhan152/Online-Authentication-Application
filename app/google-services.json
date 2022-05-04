@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037724290322",
+    "project_id": "surveyauto-75d5f",
+    "storage_bucket": "surveyauto-75d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037724290322:android:3a66858c29e757b3b377cb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037724290322-tljbrdk32otsvsk73602lidqchb5n9ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "5d9fd07b41c83297b581cd1c547d6f24280dcd0d"
+          }
+        },
+        {
+          "client_id": "1037724290322-aulkputeruodq8pcbrd89mkkt0q5a3r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUZ5qpqZxtIv5xiSl4nUyyXbNfdK8Pj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037724290322-aulkputeruodq8pcbrd89mkkt0q5a3r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
